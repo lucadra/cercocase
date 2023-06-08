@@ -123,4 +123,4 @@ def multithread_api_caller():
     with ThreadPoolExecutor() as t:
         t.map(multithread_api_call, threading_indexes)
 
-# multithread_api_caller()
+multithread_api_caller()

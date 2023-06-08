@@ -1,0 +1,9 @@
+idTipologia[0]
+4 - Appartamento
+5 - Attico - Mansarda
+7 - Casa Indipendente
+31 - Loft
+11 - Rustico - Casale
+12 - Villa
+13 - Villetta a schiera
+
